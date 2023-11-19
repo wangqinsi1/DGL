@@ -1,6 +1,6 @@
-# DGL: Device Generic Latency model for 2023-TMC-Neural Architecture Search
+# DGL: Device Generic Latency model for Neural Architecture Search
 
-This is  PyTorch implementation for  DGL: Device Generic Latency model for Neural Architecture Search.
+This is  PyTorch implementation for  [2023-TMC-DGL: Device Generic Latency model for Neural Architecture Search](https://ieeexplore.ieee.org/document/10042973).
 
 ### Prerequisites
 
